@@ -217,7 +217,7 @@ This script sets up TOTP 2FA and generates a QR code that can be scanned with an
 ---
 
 ## 🙌 Contributions
-
+Lila Venkata Sairam Rayala, Mohanram Shrinivasan.
 Feel free to clone the repo, run the scripts, and modify the logic as needed. Contributions to improve functionality or security are welcome!
 
 ---
